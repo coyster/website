@@ -1,4 +1,4 @@
-module app
+module github.com/coyster/website
 
 go 1.22.2
 
