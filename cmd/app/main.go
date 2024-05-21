@@ -11,7 +11,7 @@ import (
 
 	"github.com/go-chi/chi"
 
-	"github.com/oyste/website/gotth_stack/cmd/app/handlers"
+	"github.com/coyster/website/handlers"
 )
 
 func main() {
